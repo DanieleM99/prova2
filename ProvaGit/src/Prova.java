@@ -1,4 +1,4 @@
 
 public class Prova {
-	String ciao;
+	String ciaciao = "ciao cojone";
 }
